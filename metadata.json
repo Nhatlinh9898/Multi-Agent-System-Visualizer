@@ -1,0 +1,5 @@
+{
+  "name": "Multi-Agent System Visualizer",
+  "description": "A dashboard to visualize the flow of tasks through Processing, Execution, and Validation layers in a Multi-Agent architecture.",
+  "requestFramePermissions": []
+}
